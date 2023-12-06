@@ -438,7 +438,7 @@ GOOS=windows GOARCH=amd64 go build main.go
 | darwin  | amd64  | x86-64架构的macOS系统，Intel处理器 |
 | darwin  | arm64  | ARM64架构的macOS系统，苹果处理器     |
 
-### 小结
+## 小结
 
 好了，至此我们已经通过编写并编译运行一个最简单的Hello World程序了解了很多Golang相关的知识，
 如果暂时还无法理解上述全部内容也没有关系，后面会逐步对各个细节进行深入学习和应用。
