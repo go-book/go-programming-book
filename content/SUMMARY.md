@@ -7,3 +7,4 @@
     - [变量与常量](variables-constants.md)
 - 附录
     - [附录A：Golang发布历史](release-history.md)
+    - [附录B：代码漏洞扫描](check-vulnerability.md)
