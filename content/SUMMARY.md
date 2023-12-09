@@ -5,6 +5,7 @@
     - [Golang开发环境搭建](install-golang.md)
     - [Hello World](hello-world.md)
     - [变量与常量](variables-constants.md)
+    - [枚举](enumeration.md)
 - 附录
     - [附录A：Golang发布历史](release-history.md)
     - [附录B：代码漏洞扫描](check-vulnerability.md)
