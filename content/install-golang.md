@@ -27,7 +27,7 @@
 
 #### Golang版本
 
-`go1.21.3`
+`go1.21.5`
 
 ### 安装Golang
 
@@ -44,8 +44,8 @@
 如果是Linux操作系统，我们可以使用以下命令下载并进行解压：
 
 ```bash
-wget https://go.dev/dl/go1.21.3.linux-amd64.tar.gz
-tar -C /usr/local -xzf go1.21.3.linux-amd64.tar.gz
+wget https://go.dev/dl/go1.21.5.linux-amd64.tar.gz
+tar -C /usr/local -xzf go1.21.5.linux-amd64.tar.gz
 ```
 
 安装完毕之后，在`$HOME/.profile`文件的末尾加上下面这一行配置，使我们能够在任何地方直接使用Golang相关的命令。
